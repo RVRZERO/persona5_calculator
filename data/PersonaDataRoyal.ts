@@ -1106,26 +1106,6 @@ const personaMapRoyal: PersonaMap = {
         "area": "Kaitul",
         "floor": "L8 & 9"
     },
-    "Gabriel": {
-        "inherits": "Almighty",
-        "item": "Spiral Blizzard Ring",
-        "itemr": "Diamond Dust Lily",
-        "level": 77,
-        "arcana": "Temperance",
-        "elems": ["-", "-", "-", "-", "-", "-", "nu", "-", "ab", "-"],
-        "skills": {
-            "Maziodyne": 0,
-            "Mabufudyne": 0,
-            "Divine Judgement": 78,
-            "Ali Dance": 79,
-            "Evade Curse": 80,
-            "Touch n' Go": 81,
-            "Ice Amp": 82,
-            "Salvation": 83
-        },
-        "stats": [43, 51, 48, 54, 42],
-        "trait": "Relentless"
-    },
     "Ganesha": {
         "inherits": "Ailment",
         "item": "Rebellion",
@@ -2116,26 +2096,6 @@ const personaMapRoyal: PersonaMap = {
         "area": "Da'at",
         "floor": "All"
     },
-    "Maria": {
-        "inherits": "Healing",
-        "item": "Spiral Heal Charm",
-        "itemr": "Rosary of Purity",
-        "level": 93,
-        "arcana": "Faith",
-        "elems": ["-", "-", "wk", "-", "rs", "nu", "-", "-", "ab", "-"],
-        "skills": {
-            "Invigorate 3": 0,
-            "Salvation": 0,
-            "Holy Benevolence": 0,
-            "Heat Riser": 94,
-            "Holy Embrace": 96,
-            "Angelic Grace": 97,
-            "Holy Whisper": 98
-        },
-        "stats": [52, 66, 53, 54, 61],
-        "trait": "Ave Maria",
-        "max": true
-    },
     "Matador": {
         "inherits": "Psy",
         "item": "Blood Red Capote",
@@ -2189,26 +2149,6 @@ const personaMapRoyal: PersonaMap = {
         },
         "stats": [54, 61, 60, 57, 42],
         "trait": "Martyr's Gift"
-    },
-    "Michael": {
-        "special": true,
-        "inherits": "Almighty",
-        "item": "Judge of Hell",
-        "itemr": "Judge End",
-        "level": 87,
-        "arcana": "Judgement",
-        "elems": ["-", "rs", "-", "-", "-", "-", "-", "-", "rp", "nu"],
-        "skills": {
-            "Divine Judgement": 0,
-            "Mabufudyne": 0,
-            "Debilitate": 0,
-            "Sword Dance": 89,
-            "Mahamaon": 90,
-            "Megidolaon": 91,
-            "Cosmic Flare": 92
-        },
-        "stats": [57, 54, 55, 56, 46],
-        "trait": "Potent Hypnosis"
     },
     "Mishaguji": {
         "inherits": "Ailment",
@@ -3031,26 +2971,6 @@ const personaMapRoyal: PersonaMap = {
         "area": "Sheriruth",
         "floor": "L11-13 (before Palace 7) / L5 (after Palace 7)"
     },
-    "Raphael": {
-        "inherits": "Almighty",
-        "item": "Null Bless",
-        "itemr": "Repel Bless",
-        "skillCard": true,
-        "level": 78,
-        "arcana": "Lovers",
-        "elems": ["-", "-", "-", "ab", "-", "-", "nu", "-", "nu", "-"],
-        "skills": {
-            "Sword Dance": 0,
-            "Charge": 0,
-            "Dekaja": 0,
-            "Heat Riser": 80,
-            "Growth 3": 81,
-            "Adverse Resolve": 82,
-            "Arms Master": 83
-        },
-        "stats": [57, 45, 49, 55, 35],
-        "trait": "Pinch Anchor"
-    },
     "Red Rider": {
         "inherits": "Psy",
         "item": "Karma Ring",
@@ -3734,25 +3654,6 @@ const personaMapRoyal: PersonaMap = {
         "trait": "Blessed Bloodline",
         "area": "Sheriruth",
         "floor": "L1-4 (before Palace 7) / L1 & 2 (after Palace 7)"
-    },
-    "Uriel": {
-        "inherits": "Almighty",
-        "item": "Heaven's Gate",
-        "itemr": "Providence",
-        "level": 81,
-        "arcana": "Justice",
-        "elems": ["-", "-", "nu", "-", "-", "-", "-", "ab", "rp", "-"],
-        "skills": {
-            "Deathbound": 0,
-            "Myriad Slashes": 0,
-            "Bloodbath": 0,
-            "Repel Nuke": 83,
-            "Megidolaon": 84,
-            "Angelic Grace": 85,
-            "Spell Master": 86
-        },
-        "stats": [50, 54, 49, 55, 42],
-        "trait": "Mouth of Savoring"
     },
     "Valkyrie": {
         "inherits": "Physical",
